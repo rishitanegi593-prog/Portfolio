@@ -1,18 +1,18 @@
-# 🌻 Personal Portfolio Website
+# Personal Portfolio Website
 
 Welcome to my personal portfolio! This website showcases my skills, education, projects, and contact information as an MCA student and aspiring software developer.
 
-## 👩‍💻 About Me
+## About Me
 
 I am an MCA student passionate about learning new technologies and developing creative projects. I enjoy solving problems and building user-friendly applications.
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## ✨ Features
+## Features
 
 - Professional and responsive design
 - About Me section
@@ -23,7 +23,7 @@ I am an MCA student passionate about learning new technologies and developing cr
 - Resume download option
 - Custom sunflower cursor
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 1. QuizHub
 An online quiz application with different categories, difficulty levels, and a leaderboard.
@@ -31,18 +31,48 @@ An online quiz application with different categories, difficulty levels, and a l
 ### 2. TravelSphere
 A full-stack travel booking web application built using the MERN stack.
 
-## 💻 Run Locally
+## Installation & Setup Instructions
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/rishitanegi593-prog/Portfolio.git
-   ```
+Follow these steps to run this project on your local machine.
 
-2. Open the project folder in VS Code.
+### Prerequisites
 
-3. Open `index.html` in your browser or use Live Server.
+Make sure you have installed:
+- [Git](https://git-scm.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- A web browser (Chrome, Edge, etc.)
 
-## 📬 Connect With Me
+### Step 1: Clone the Repository
+
+Open your terminal and run:
+
+```bash
+git clone https://github.com/rishitanegi593-prog/Portfolio.git
+```
+
+### Step 2: Navigate to the Project Folder
+
+```bash
+cd Portfolio
+```
+
+### Step 3: Open the Project in VS Code
+
+```bash
+code .
+```
+
+### Step 4: Run the Project
+
+- Open the project in VS Code.
+- Open the `index.html` file.
+- Right-click and select **Open with Live Server**.
+
+Alternatively, you can open `index.html` directly in your web browser.
+
+Your portfolio website is now running locally!
+
+## Connect With Me
 
 - GitHub: https://github.com/rishitanegi593-prog
 
