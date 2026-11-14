@@ -675,34 +675,3 @@ nav {
         padding: 70px 7%;
     }
 }
-/* 🌻 Custom Sunflower Cursor */
-
-html,
-body {
-    cursor: none;
-}
-
-a,
-button,
-input,
-textarea,
-.btn {
-    cursor: none;
-}
-
-/* Sunflower following the mouse */
-.sunflower-cursor {
-    position: fixed;
-    width: 32px;
-    height: 32px;
-
-    pointer-events: none;
-
-    z-index: 99999;
-
-    font-size: 28px;
-
-    transform: translate(-50%, -50%);
-
-    transition: transform 0.05s linear;
-}
